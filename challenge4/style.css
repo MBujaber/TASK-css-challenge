@@ -1,15 +1,40 @@
 /* Add your code in each class */
 body {
+  background-color: #26003b;
 }
 .container {
+  padding: 10px;
 }
-.movie-card {
+.movie-card { 
+
+  text-align: center;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+
 }
 .movie-image {
+  width:100%;
+  height:100%;
+  text-align: center;
+  position:
+
+
 }
 .movie-details-container {
 }
 .descriptions {
+}
+
+  p {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: rgb(255, 255, 255);
+
 }
 
 /*A gift from us!*/
@@ -28,4 +53,8 @@ body {
   );
 }
 .movie-title {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+
 }
