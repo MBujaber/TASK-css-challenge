@@ -1,0 +1,25 @@
+body {
+    background-color: #26003b;
+  }
+
+  img.center {
+    display: block;
+    margin: 0 auto;
+}
+img {
+  width: 50%
+  
+  }
+
+h1 {
+    font-size: 50px;
+    color: white;
+    font-family: Cursive;
+    text-align: center
+    }
+
+    p {
+      font-size: medium;
+      text-align: center;
+      color: white
+  }
